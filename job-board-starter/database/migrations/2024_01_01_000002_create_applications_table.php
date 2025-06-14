@@ -1,0 +1,1 @@
+// Placeholder content for 2024_01_01_000002_create_applications_table.php

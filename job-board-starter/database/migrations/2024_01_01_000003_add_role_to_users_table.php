@@ -1,0 +1,1 @@
+// Placeholder content for 2024_01_01_000003_add_role_to_users_table.php

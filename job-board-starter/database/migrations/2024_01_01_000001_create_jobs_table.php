@@ -1,0 +1,1 @@
+// Placeholder content for 2024_01_01_000001_create_jobs_table.php

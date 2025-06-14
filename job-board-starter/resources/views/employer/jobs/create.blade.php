@@ -1,0 +1,1 @@
+// Placeholder content for create.blade.php
